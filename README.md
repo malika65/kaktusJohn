@@ -9,9 +9,6 @@ Kaktus John is a unique project. Our team create it to help people take care of 
 Working principles:
  There are a temperature sensor and 3 luminodiode. When the temperature around is cold , only one led is on . If the temperature is warm , two leds are on, if hot three leds are on.
  
-Circuit's screenshot:
-![Circuit](https://i.imgur.com/v6Qap5z.png)
-
 ## Final result screenshot:
 ![Full](https://i.imgur.com/1EAvrOl.png)
 
