@@ -12,7 +12,7 @@ Working principles:
 Circuit's screenshot:
 ![Circuit](https://i.imgur.com/v6Qap5z.png)
 
-##Parts screenshots:
+## Parts screenshots:
 ![Pot](https://i.imgur.com/eJhENX7.png)
 ![Kaktus](https://i.imgur.com/SB21e4r.png)
 ![Full](https://i.imgur.com/1EAvrOl.png)
@@ -21,6 +21,7 @@ Circuit's screenshot:
 
 ## Circuit parts list:
 | Amount| Part|
+|-------|-----|
 |   1   | temperature sensor
 |   1   | arduino uno R3
 |   3   | red led
