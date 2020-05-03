@@ -12,9 +12,7 @@ Working principles:
 Circuit's screenshot:
 ![Circuit](https://i.imgur.com/v6Qap5z.png)
 
-## Parts screenshots:
-![Pot](https://i.imgur.com/eJhENX7.png)
-![Kaktus](https://i.imgur.com/SB21e4r.png)
+## Final result screenshot:
 ![Full](https://i.imgur.com/1EAvrOl.png)
 
 [Project at Thingverse](https://www.thingiverse.com/thing:4333392)
