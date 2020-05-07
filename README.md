@@ -12,7 +12,7 @@ Working principles:
 ## Final result screenshot:
 ![Full](https://i.imgur.com/1EAvrOl.png)
 
-[Project at Thingverse](https://www.thingiverse.com/thing:4333392)
+[Project at Thingverse](https://www.thingiverse.com/thing:4342167)
 
 ## Circuit parts list:
 | Amount| Part|
