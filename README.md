@@ -1,4 +1,4 @@
-# KaKtusJohn
+# KaktusJohn
 
 Kaktus John is a unique project. Our team create it to help people take care of their plants and control the temperature in the house on the whole. This device can be placed among indoor plants , if you wish to control favorable temperature for thier growth. Also , Kaktus John cute and beautiful, it  can decorate the interior and doesn't take too much place and.
 
